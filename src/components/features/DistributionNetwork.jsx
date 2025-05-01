@@ -40,7 +40,7 @@ const DistributionNetwork = () => {
           <h2 className="text-4xl font-serif font-bold text-gray-900 mb-6 relative pl-12">
             <span className="absolute left-0 top-3 w-8 h-1 bg-[#F4511E] rounded-full"></span>
             Worldwide Distribution
-            <span className="block text-[#F4511E]">Network Access</span>
+            <span className="block text-[#F4511E]">Network Access2</span>
           </h2>
           <p className="text-gray-600 max-w-3xl mx-auto text-lg leading-relaxed">
             When you publish with Big Note Publications, your book becomes available through the world&apos;s largest distribution
